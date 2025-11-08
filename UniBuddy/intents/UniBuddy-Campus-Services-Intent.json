@@ -1,0 +1,28 @@
+{
+  "name": "UniBuddy-Campus-Services-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "The counseling office is in Building B, Room 105. For appointments, call 555-765-4321.",
+            "You can book library slots online through the library portal or your student app. For printing/scanning, use the labs in Building C.",
+            "IT support is available at helpdesk@university.edu or through the IT portal."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": []
+}

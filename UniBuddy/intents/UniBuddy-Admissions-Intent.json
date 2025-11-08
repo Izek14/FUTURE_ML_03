@@ -1,0 +1,28 @@
+{
+  "name": "UniBuddy-Admissions-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "You can apply for admission on our official university portal. The application deadline is typically announced each semester. Required documents include transcripts, ID, and test scores.",
+            "Admission documents can be submitted online or in person to the Admissions Office. For detailed steps, visit the Admissions section of our website.",
+            "For transfer admissions, please contact admissions@university.edu or call 555-123-4567."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": []
+}

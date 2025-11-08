@@ -1,0 +1,16 @@
+[
+  { "data": [{ "text": "Registrar’s office contact" }], "isTemplate": false },
+  { "data": [{ "text": "Emergency phone numbers" }], "isTemplate": false },
+  { "data": [{ "text": "Student helpline" }], "isTemplate": false },
+  { "data": [{ "text": "Who do I call for help?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "I lost my wallet, what to do?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "How do I report an incident?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "Where is the security office?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Medical emergency process" }], "isTemplate": false }
+]

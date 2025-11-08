@@ -1,0 +1,22 @@
+[
+  {
+    "data": [{ "text": "What events are happening this week?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "How do I join a student club?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Campus activities" }], "isTemplate": false },
+  { "data": [{ "text": "Upcoming workshops" }], "isTemplate": false },
+  { "data": [{ "text": "List of active clubs" }], "isTemplate": false },
+  { "data": [{ "text": "Who runs campus events?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "How do I sign up for a seminar?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "Are there any career fairs soon?" }],
+    "isTemplate": false
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "UniBuddy-Events-Clubs-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Event schedules are updated weekly on the campus events portal. You can join clubs via the Clubs section or at the Student Activities desk.",
+            "For workshops and career fairs, check your email for invites or see notice boards around campus."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": []
+}

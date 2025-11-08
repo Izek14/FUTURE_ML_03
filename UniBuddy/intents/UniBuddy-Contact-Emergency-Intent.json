@@ -1,0 +1,28 @@
+{
+  "name": "UniBuddy-Contact-Emergency-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "The Registrar’s Office: 555-123-4567, registrar@university.edu",
+            "For campus emergencies, call security at 555-999-0000 or visit them on the ground floor of Building A.",
+            "Lost property can be reported to lostfound@university.edu. For medical help, visit the health center or call campus emergency."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": []
+}

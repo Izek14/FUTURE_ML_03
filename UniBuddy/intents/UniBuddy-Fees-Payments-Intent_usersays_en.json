@@ -1,0 +1,19 @@
+[
+  {
+    "data": [{ "text": "How do I pay my tuition fees?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Can I pay fees online?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "What is the payment deadline?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "Where can I find my fee receipt?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "How to check my balance?" }], "isTemplate": false },
+  { "data": [{ "text": "Can I pay in installments?" }], "isTemplate": false },
+  { "data": [{ "text": "Who handles financial aid?" }], "isTemplate": false },
+  { "data": [{ "text": "Where is the Finance Office?" }], "isTemplate": false }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "UniBuddy-Welcome-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hi! Welcome to UniBuddy, your university helpdesk. How can I assist you today?",
+            "Hello! I’m UniBuddy. Ask me anything about courses, campus services, or student life."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "data": [{ "text": "Where is the counseling office?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "How do I book a library slot?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Campus WiFi help" }], "isTemplate": false },
+  { "data": [{ "text": "How do I access IT support?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "Where can I print or scan documents?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Where is the health center?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "Who do I contact for lost and found?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Directions to the library" }], "isTemplate": false },
+  {
+    "data": [{ "text": "How do I get my student ID card?" }],
+    "isTemplate": false
+  }
+]

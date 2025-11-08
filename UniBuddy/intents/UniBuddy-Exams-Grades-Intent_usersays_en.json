@@ -1,0 +1,15 @@
+[
+  { "data": [{ "text": "When are the exams?" }], "isTemplate": false },
+  { "data": [{ "text": "What is my exam schedule?" }], "isTemplate": false },
+  { "data": [{ "text": "Academic calendar" }], "isTemplate": false },
+  { "data": [{ "text": "Where do I check my grades?" }], "isTemplate": false },
+  { "data": [{ "text": "How can I see my results?" }], "isTemplate": false },
+  { "data": [{ "text": "How do I get my transcript?" }], "isTemplate": false },
+  { "data": [{ "text": "Exam center location?" }], "isTemplate": false },
+  { "data": [{ "text": "Upcoming tests dates?" }], "isTemplate": false },
+  { "data": [{ "text": "How do I request a regrade?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "Where can I find past exam papers?" }],
+    "isTemplate": false
+  }
+]

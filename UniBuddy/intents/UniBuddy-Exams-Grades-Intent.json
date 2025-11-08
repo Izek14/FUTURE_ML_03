@@ -1,0 +1,28 @@
+{
+  "name": "UniBuddy-Exams-Grades-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Exam dates and schedules are available on your student portal under 'Exams.' The academic calendar has all important dates.",
+            "You can check your grades and results by logging into your student account. For transcript requests, visit the Registrar’s section.",
+            "For past exam papers and regrade requests, consult your department's website."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": []
+}

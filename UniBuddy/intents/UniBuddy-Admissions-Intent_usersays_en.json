@@ -1,0 +1,34 @@
+[
+  {
+    "data": [{ "text": "How do I apply for admission?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "What is the last date to apply?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Can I still apply?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "What documents are needed for admission?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "Where do I submit my documents?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Admission deadline?" }], "isTemplate": false },
+  {
+    "data": [{ "text": "How do I register as a student?" }],
+    "isTemplate": false
+  },
+  {
+    "data": [{ "text": "Requirements for joining university?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Steps to apply" }], "isTemplate": false },
+  {
+    "data": [{ "text": "How do I transfer from another college?" }],
+    "isTemplate": false
+  },
+  { "data": [{ "text": "Admission office contact" }], "isTemplate": false }
+]

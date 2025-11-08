@@ -1,0 +1,13 @@
+[
+  { "data": [{ "text": "Hi" }], "isTemplate": false },
+  { "data": [{ "text": "Hello" }], "isTemplate": false },
+  { "data": [{ "text": "Hey" }], "isTemplate": false },
+  { "data": [{ "text": "Good morning" }], "isTemplate": false },
+  { "data": [{ "text": "Good evening" }], "isTemplate": false },
+  { "data": [{ "text": "Hi there!" }], "isTemplate": false },
+  { "data": [{ "text": "Greetings" }], "isTemplate": false },
+  { "data": [{ "text": "Yo" }], "isTemplate": false },
+  { "data": [{ "text": "I need help" }], "isTemplate": false },
+  { "data": [{ "text": "Can you help me?" }], "isTemplate": false },
+  { "data": [{ "text": "Is anyone there?" }], "isTemplate": false }
+]

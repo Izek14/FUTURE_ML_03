@@ -1,0 +1,28 @@
+{
+  "name": "UniBuddy-Fees-Payments-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Tuition fees can be paid online via the student portal or in person at the Finance Office, Building D, Room 201.",
+            "Payment deadlines and receipts are shown in your student profile. For financial aid queries, email finance@university.edu.",
+            "Installment plans are available. Check with the Finance Office for options."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": false,
+  "events": []
+}

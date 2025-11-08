@@ -1,0 +1,27 @@
+{
+  "name": "UniBuddy-Default-Fallback-Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Sorry, I didn’t understand your question. Could you please rephrase or contact human support at helpdesk@university.edu?",
+            "I’m here to help! Try asking about admissions, exams, campus services, or events."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "fallbackIntent": true,
+  "events": []
+}
